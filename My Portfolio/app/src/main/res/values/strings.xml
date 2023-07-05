@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Localhost Coder</string>
+    <string name="title">Welcome to Localhost Coders World</string>
+    <string name="btn_text">See More</string>
+    <string name="creator">Made by Upendra Kumar</string>
+    <string name="second_screen">Find All my Projects List</string>
+    <string name="java">Front End Designs</string>
+    <string name="nodejs">NodeJS</string>
+    <string name="js">JavaScript</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="react">ReactJS</string>
+    <string name="ext">Extensions</string>
+</resources>
